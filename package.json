@@ -1,0 +1,39 @@
+{
+  "name": "hubot-lgtm",
+  "version": "0.1.0",
+  "description": "A Hubot script for fetching an image from www.lgtm.in",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register --reporter spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/hubot-lgtm.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": {
+    "name": "bouzuya",
+    "mail": "m@bouzuya.net",
+    "url": "http://bouzuya.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouzuya/hubot-lgtm/issues"
+  },
+  "homepage": "https://github.com/bouzuya/hubot-lgtm",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "coffee-script": "^1.7.1",
+    "kakashi": "0.2.0",
+    "mocha": "^1.20.1",
+    "sinon-chai": "^2.5.0",
+    "sinon": "^1.10.3"
+  },
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "q": "^1.0.1",
+    "request": "^2.37.0"
+  }
+}
