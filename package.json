@@ -23,9 +23,6 @@
     "url": "https://github.com/bouzuya/hubot-lgtm/issues"
   },
   "homepage": "https://github.com/bouzuya/hubot-lgtm",
-  "dependencies": {
-    "coffee-script": "^1.7.1"
-  },
   "devDependencies": {
     "chai": "^1.9.1",
     "kakashi": "0.2.0",
@@ -34,6 +31,7 @@
     "sinon": "^1.10.3"
   },
   "dependencies": {
+    "coffee-script": "^1.7.1",
     "cheerio": "^0.17.0",
     "q": "^1.0.1",
     "request": "^2.37.0"
