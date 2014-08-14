@@ -31,6 +31,9 @@
     "sinon-chai": "^2.5.0",
     "sinon": "^1.10.3"
   },
+  "peerDependencies": {
+    "coffee-script": "1.7.x"
+  },
   "dependencies": {
     "cheerio": "^0.17.0",
     "q": "^1.0.1",
