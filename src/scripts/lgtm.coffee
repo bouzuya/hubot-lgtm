@@ -4,7 +4,7 @@
 # Dependencies:
 #   "cheerio": "^0.17.0",
 #   "q": "^1.0.1",
-#   "request": "^2.37.0"
+#   "request": "^2.55.0"
 #
 # Configuration:
 #   None
