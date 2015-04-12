@@ -4,12 +4,11 @@ A Hubot script for fetching an image from www.lgtm.in.
 
 ## Usage
 
-    $ npm install git://github.com/bouzuya/hubot-lgtm.git
+    $ npm install https://github.com/bouzuya/hubot-lgtm/archive/master.tar.gz
 
 or
 
-    $ # TAG is the package version you need.
-    $ npm install git://github.com/bouzuya/hubot-lgtm.git\#TAG
+    $ npm install https://github.com/bouzuya/hubot-lgtm/archive/{VERSION}.tar.gz
 
 ## License
 
