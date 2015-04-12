@@ -1,6 +1,6 @@
 {
   "name": "hubot-lgtm",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "A Hubot script for fetching an image from www.lgtm.in",
   "main": "index.js",
   "scripts": {
