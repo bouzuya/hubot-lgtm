@@ -14,6 +14,18 @@ or
 
 [MIT](LICENSE)
 
+## Author
+
+[bouzuya][user] &lt;[m@bouzuya.net][email]&gt; ([http://bouzuya.net][url])
+
+## Contributors
+
+[@rahulsom](https://github.com/rahulsom/)
+
 ## Badges
 
 [![Build Status](https://travis-ci.org/bouzuya/hubot-lgtm.svg?branch=master)](https://travis-ci.org/bouzuya/hubot-lgtm)
+
+[user]: https://github.com/bouzuya/
+[email]: mailto:m@bouzuya.net
+[url]: http://bouzuya.net
