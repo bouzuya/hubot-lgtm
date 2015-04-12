@@ -1,7 +1,7 @@
 {
   "name": "hubot-lgtm",
   "description": "A Hubot script for fetching an image from www.lgtm.in",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": {
     "name": "bouzuya",
     "mail": "m@bouzuya.net",
