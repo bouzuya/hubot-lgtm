@@ -13,7 +13,7 @@ or
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ## Badges
 
