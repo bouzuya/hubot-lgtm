@@ -48,7 +48,6 @@
     "through2": "^0.6.1"
   },
   "dependencies": {
-    "cheerio": "^0.18.0",
     "q": "^1.2.0",
     "request": "^2.55.0"
   }
