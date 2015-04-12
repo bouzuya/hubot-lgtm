@@ -1,34 +1,19 @@
 {
   "name": "hubot-lgtm",
-  "version": "2.0.0",
   "description": "A Hubot script for fetching an image from www.lgtm.in",
-  "main": "index.js",
-  "scripts": {
-    "build": "gulp",
-    "clean": "gulp clean",
-    "coveralls": "gulp coveralls",
-    "robot": "hubot --adapter shell",
-    "test": "gulp test",
-    "watch": "gulp watch"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/bouzuya/hubot-lgtm.git"
-  },
-  "keywords": [
-    "hubot",
-    "hubot-scripts"
-  ],
+  "version": "2.0.0",
   "author": {
     "name": "bouzuya",
     "mail": "m@bouzuya.net",
     "url": "http://bouzuya.net"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bouzuya/hubot-lgtm/issues"
   },
-  "homepage": "https://github.com/bouzuya/hubot-lgtm",
+  "dependencies": {
+    "q": "^1.2.0",
+    "request": "^2.55.0"
+  },
   "devDependencies": {
     "coffee-script": "^1.7.1",
     "del": "^0.1.2",
@@ -47,8 +32,23 @@
     "sinon": "^1.10.3",
     "through2": "^0.6.1"
   },
-  "dependencies": {
-    "q": "^1.2.0",
-    "request": "^2.55.0"
+  "homepage": "https://github.com/bouzuya/hubot-lgtm",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/hubot-lgtm.git"
+  },
+  "scripts": {
+    "build": "gulp",
+    "clean": "gulp clean",
+    "coveralls": "gulp coveralls",
+    "robot": "hubot --adapter shell",
+    "test": "gulp test",
+    "watch": "gulp watch"
   }
 }
